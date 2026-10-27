@@ -1,0 +1,4 @@
+Customer table only displays Ali Khan when direction in both, whereas all customers when single.
+Hina has no orders.
+Monitor was never sold.
+Because it is the price of computers of customer Ali Khan.
